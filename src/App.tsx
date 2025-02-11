@@ -26,8 +26,13 @@ function App() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
+<<<<<<< HEAD
             <img 
                 src="/liver_508747.png" 
+=======
+              <img 
+                src="./img/liver_508747.png" 
+>>>>>>> afbf07783162976f4d5850faed20c8eff17907b8
                 alt="LiverDiag Pro Logo" 
                 className="h-8 w-8"
               />
