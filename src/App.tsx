@@ -27,7 +27,7 @@ function App() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <img 
-                src="/./img/liver_508747.png" 
+                src="./img/liver_508747.png" 
                 alt="LiverDiag Pro Logo" 
                 className="h-8 w-8"
               />
